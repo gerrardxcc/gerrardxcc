@@ -33,7 +33,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,java,html,css,javascript,ts,express,jquery,styledcomponents,nextjs,graphql" /><br>
-    <img src="https://skillicons.dev/icons?i=nestjs,bootstrap,mongodb,mysql,django,redux,blender,vscode,atom,wordpress,heroku,figma" />
+    <img src="https://skillicons.dev/icons?i=nestjs,bootstrap,mongodb,mysql,django,redux,php,blender,vscode,atom,wordpress,heroku,figma" />
 
   </a>
 </p>
