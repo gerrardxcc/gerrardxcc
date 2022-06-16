@@ -1,9 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+This+is+Gerrard+Xiong!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=+Welcome+to+my+Github!;&center=true&size=30">
   </a>
 </h1>
 <br>
+
 
 <p align="center">
   Hi, I'm Gerrard Xiong, Graduate Software Engineer/Developer 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ Living in Cairns 🇦🇺
