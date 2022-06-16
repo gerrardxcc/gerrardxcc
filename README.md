@@ -10,7 +10,7 @@
   Hi, I'm Gerrard Xiong, Graduate Software Engineer/Developer 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ Living in Cairns 🇦🇺
   <br>
   <br>
-  🎓 Completed my Bachelor degree from <a href="https://www.jcu.edu.au"> James Cook University.</a>
+  🎓 Completed my Bachelor of Information Technology degree from <a href="https://www.jcu.edu.au"> James Cook University.</a>
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
