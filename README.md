@@ -5,14 +5,14 @@
 
 
 <p align="center">
-  A Graduate Software Engineer/Developer 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ Living in Cairns 🇦🇺
+  A Software Engineer/Developer 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ Living in Queensland 🇦🇺
   <br>
   <br>
   🎓 Completed my Bachelor of Information Technology degree from <a href="https://www.jcu.edu.au"> James Cook University.</a>
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently Looking for a Graduate Software Engineer opportunity. 
+  🧑‍💼 I’m currently Looking for a Software Engineer opportunity. 
   <br>
 </p>
 
