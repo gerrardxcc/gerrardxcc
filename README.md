@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  A Software Engineer/Developer 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ Living in Queensland 🇦🇺
+  A Frontend/Full Stack Developer 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ Living in Queensland 🇦🇺
   <br>
   <br>
   🎓 Completed my Bachelor of Information Technology degree from <a href="https://www.jcu.edu.au"> James Cook University.</a>
