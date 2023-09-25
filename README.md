@@ -29,11 +29,11 @@
 
 <hr>
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-<br>
+<br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,react,angular,nodejs,python,java,html,css,sass,javascript,ts,express,jquery,nextjs,nestjs,rust,graphql&perline=19" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mongodb,mysql,postgres,django,redux,php,blender,vscode,atom,idea,wordpress,heroku,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,react,nextjs,angular,nodejs,python,java,html,css,sass,javascript,ts,express,jquery,nestjs,rust,graphql&perline=19" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mongodb,mysql,postgres,supabase,django,redux,vercel,php,blender,vscode,atom,idea,wordpress,heroku,figma&perline=19" />
 
   </a>
 </p>
