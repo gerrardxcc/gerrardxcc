@@ -12,7 +12,7 @@
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently Looking for a Software Engineer opportunity. 
+  👉🏻 Check out my study note <a href="https://devpress.vercel.app/">DevPress</a>
   <br>
 </p>
 
